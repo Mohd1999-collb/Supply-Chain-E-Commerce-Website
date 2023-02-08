@@ -7,7 +7,7 @@
 
 ![Screenshot (736)](https://user-images.githubusercontent.com/96992202/217645862-34462804-ddf8-4c37-a072-3b39f0cbee1c.png)
 
-3. **### **Search The Item Of given name****
+3.  **Search The Item Of given name**
 
 ![Screenshot (737)](https://user-images.githubusercontent.com/96992202/217646499-875e2762-05ab-40ad-a1df-b7d0e91dfcc6.png)
 
