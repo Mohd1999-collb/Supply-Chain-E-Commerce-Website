@@ -28,7 +28,7 @@
 ![Screenshot (742)](https://user-images.githubusercontent.com/96992202/217647618-d3d9d7e3-6f46-4eaf-9ea1-8741417bd865.png)
 
 
- **###Byu the Order**
+ **###Buy the Order**
 
 ![Screenshot (743)](https://user-images.githubusercontent.com/96992202/217647677-dccdc17c-0616-4e5e-925f-cf46c73accf1.png)
 
