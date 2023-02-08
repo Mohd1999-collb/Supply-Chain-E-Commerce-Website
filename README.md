@@ -1,9 +1,9 @@
 # Supply-Chain-E-Commerce-Website
-1.**### **First Page****
+1.First Page
 
 ![Screenshot (735)](https://user-images.githubusercontent.com/96992202/217645672-45cb9c87-b57e-4ef7-aa44-c90d8dd75338.png)
 
-2. **### **Search Bar****
+2. Search Bar
 
 ![Screenshot (736)](https://user-images.githubusercontent.com/96992202/217645862-34462804-ddf8-4c37-a072-3b39f0cbee1c.png)
 
